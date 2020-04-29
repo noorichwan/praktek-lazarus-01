@@ -22,6 +22,7 @@ object Form1: TForm1
     Height = 23
     Top = 48
     Width = 80
+    OnChange = eNamaChange
     TabOrder = 1
     Text = 'eNama'
   end
@@ -32,5 +33,6 @@ object Form1: TForm1
     Width = 32
     Caption = 'Nama'
     ParentColor = False
+    OnClick = Label1Click
   end
 end

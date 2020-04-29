@@ -3,7 +3,6 @@ object Form1: TForm1
   Height = 315
   Top = 158
   Width = 436
-  BorderStyle = bsDialog
   Caption = 'Helo'
   ClientHeight = 315
   ClientWidth = 436
